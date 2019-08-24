@@ -9,7 +9,7 @@ Full source code available at [https://github.com/angularexample/angular-virtual
 ## Running Example
 
 Click for running example:
-[angular-virtual-scroll-grid-example](https://angularexample.github.io/angular-virtual-scroll-example)
+[angular-virtual-scroll-grid-example](https://angularexample.github.io/angular-virtual-scroll-grid-example/)
 
 ### Screen Shot
 
