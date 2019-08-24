@@ -1,0 +1,44 @@
+@import "partials/colors";
+@import "partials/page";
+
+.xxx-column-email {
+  width: 260px;
+}
+
+.xxx-column-id {
+  width: 40px;
+}
+
+.xxx-column-name {
+  width: 440px;
+}
+
+.xxx-comment-container {
+  border-bottom: 1px solid lightskyblue;
+  height: 16px;
+  padding: 4px;
+}
+
+.xxx-comment-container div {
+  display: inline-block;
+}
+
+.xxx-comments-container {
+  background-color: $bg-color-container;
+  height: 400px;
+  margin-bottom: 32px;
+  width: 100%;
+  white-space: nowrap;
+}
+
+.xxx-comments-header {
+  background-color: gainsboro;
+  border-bottom: 2px solid darkgray;
+  font-weight: bold;
+  padding: 4px;
+  padding-top: 8px;
+}
+
+.xxx-comments-header div {
+  display: inline-block;
+}
