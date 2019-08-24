@@ -6,6 +6,11 @@ Created by AngularExample. [https://github.com/angularexample](https://github.co
 
 Full source code available at [https://github.com/angularexample/angular-virtual-scroll-example](https://github.com/angularexample/angular-virtual-scroll-example)
 
+## Running Example
+
+Click for running example:
+[angular-virtual-scroll-grid-example](https://angularexample.github.io/angular-virtual-scroll-example)
+
 ### Screen Shot
 
 ![Angular Virtual Scroll Grid Example](https://github.com/angularexample/angular-virtual-scroll-grid-example/blob/master/src/assets/images/angular-virtual-scroll-grid-example.png)
