@@ -40,10 +40,4 @@ describe('XxxErrorHandler', () => {
     xxxErrorHandler.handleError(new Error('test'));
     expect(spyLogService).toHaveBeenCalled();
   });
-
-  // TODO temporary to handle branch for known angular flex error
-  it('should run XxxLogService on handleError with message split', () => {
-    xxxErrorHandler.handleError(new Error('split'));
-    expect(spyAlertService).not.toHaveBeenCalled();
-  });
 });

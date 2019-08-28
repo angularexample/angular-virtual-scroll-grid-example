@@ -4,7 +4,7 @@ import { MatSnackBar, MatSnackBarConfig, MatSnackBarRef } from '@angular/materia
 import {XxxAlertComponent} from './xxx-alert.component';
 import {XxxAlertType} from './xxx-alert.enum';
 
-@Injectable()
+@Injectable({providedIn: 'root'})
 export class XxxAlertService {
   private config: MatSnackBarConfig;
   private isOpen = false;
