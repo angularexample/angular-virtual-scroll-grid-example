@@ -2,7 +2,7 @@
   "name": "angular-virtual-scroll-grid-example",
   "description": "Angular Virtual Scroll Grid Example. Angular 9 ",
   "author": "AngularExample https://github.com/angularexample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
